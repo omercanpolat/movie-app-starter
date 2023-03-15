@@ -21,7 +21,7 @@ import {
 export const AuthContext = createContext();
 //* with custom hook
 // export const useAuthContext = () => {
-//     return useContext(AuthContext);
+//     return useContext(AuthContext); denememem
 //   };
 
 const AuthContextProvider = ({ children }) => {
